@@ -2,7 +2,7 @@ public class Hello
 {
     public static void main(String[] args) 
     {
-        HelloWorld();
+        HalloWelt();
     }
 
     public static void HelloWorld()
